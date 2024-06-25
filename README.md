@@ -7,6 +7,8 @@
   <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-FF5A4A.svg?&style=for-the-badge&logo=Tistory&logoColor=White"/>
 </div>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mj030313)](https://solved.ac/mj030313)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kons2003&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kons2003&layout=compact)

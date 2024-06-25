@@ -7,6 +7,10 @@
   <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-FF5A4A.svg?&style=for-the-badge&logo=Tistory&logoColor=White"/>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kons&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kons2003&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kons&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kons2003&layout=compact)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{kons2003}?pet-id=1" width="1000" height="120"/>
+</a>

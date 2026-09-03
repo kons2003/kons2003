@@ -4,7 +4,7 @@
 
 <h3 align="center">📢 Blog 📢</h3>
 <div align="center">
-  <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-FF5A4A.svg?&style=for-the-badge&logo=Tistory&logoColor=White"/>
+  <a href="https://kons03.tistory.com/"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-FF5A4A.svg?&style=for-the-badge&logo=Tistory&logoColor=White"/>
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mj030313)](https://solved.ac/mj030313)

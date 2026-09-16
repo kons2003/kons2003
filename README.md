@@ -9,6 +9,13 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mj030313)](https://solved.ac/mj030313)
 
+<!-- 라이트/다크 모두 선명하게 보이는 카드 배경 버전 추천 -->
+<a href="https://school.programmers.co.kr/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/jaeseung9/github-programmers-rank/master/lib/result.svg"
+       alt="Programmers Rank"
+       style="background:#0b0c10;border-radius:12px;padding:8px;display:block;max-width:100%;height:auto;">
+</a>
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{kons2003}?pet-id=1" width="1000" height="120"/>
 </a>

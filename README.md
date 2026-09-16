@@ -16,6 +16,8 @@
        style="background:#0b0c10;border-radius:12px;padding:8px;display:block;max-width:100%;height:auto;">
 </a>
 
+![Programmers Badge](https://raw.githubusercontent.com/kons2003/github-programmers-rank/main/result/result.svg)
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{kons2003}?pet-id=1" width="1000" height="120"/>
 </a>

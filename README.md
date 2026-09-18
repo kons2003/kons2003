@@ -22,6 +22,8 @@
 
 ![Programmers Badge](https://raw.githubusercontent.com/kons2003/Programmers_Badge_Generator/main/result/result.svg)
 
+![Programmers Badge](https://raw.githubusercontent.com/kons2003/Programmers_Badge_Generator/main/result/result.svg?cache_buster=1
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{kons2003}?pet-id=1" width="1000" height="120"/>
 </a>

@@ -18,6 +18,8 @@
 
 ![Programmers Badge](https://raw.githubusercontent.com/kons2003/github-programmers-rank/master/lib/result.svg)
 
+![Programmers Badge](https://raw.githubusercontent.com/kons2003/github-programmers-rank/master/lib/result.svg?v=20260918)
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{kons2003}?pet-id=1" width="1000" height="120"/>
 </a>
